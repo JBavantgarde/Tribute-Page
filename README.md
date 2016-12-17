@@ -1,6 +1,7 @@
 # Tribute-Page
 DC Tribute page
-<!DOCTYPE HTML>
+<!DOCTYPE html>
+<html>
 <head>
 <style>
 body {background-color: black; margin-left: auto;}
@@ -51,4 +52,5 @@ h2 {
   </h2>
   </div>
 </body>
+</hmtl>
 
